@@ -1841,6 +1841,10 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qTsxZKMNi9 .mbr-gallery-item > div > span {
+  color: #b2ccd2;
+  text-align: center;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
