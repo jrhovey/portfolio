@@ -257,20 +257,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "171",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/defender-2000x2500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/defender-2000x2500-800x1000.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "102 2d",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -283,19 +270,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "171",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/something-1000x650.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/something-1000x650-800x520.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -322,20 +296,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "102 2d",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bunny-protest-2000x3111.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bunny-protest-2000x3111-800x1244.jpg",
+                "image": "@PROJECT_PATH@/assets/images/saturn-3-2000x3200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/saturn-3-2000x3200-800x1280.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "171",
-                "active": true
+                "active": false
               }
             ]
           }
